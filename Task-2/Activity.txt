@@ -1,0 +1,12 @@
+Task - 2
+__________________________________
+
+Supervised Machine Learning Task
+-----------------------------------
+Diabetes Prediction
+• Dataset Link: https://www.kaggle.com/rahulsah06/machinelearning-for-diabetes-with-python
+
+• Perform Data analysis and use different machine learning
+algorithms.
+• Compare at least 3 different Algorithms and show their accuracies
+with the help of graph

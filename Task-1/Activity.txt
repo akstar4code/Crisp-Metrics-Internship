@@ -1,0 +1,12 @@
+Task -1
+_______________________________________________________________________
+
+
+Supervised Machine Learning Task
+---------------------------------
+Dataset Link : https://www.kaggle.com/kaushil268/diseaseprediction-using-machine-learning
+
+Perform Visualization Task and make use different algorithms to
+predict label.
+Show at least 3 different Algorithms accuracies with the help of
+graph.
